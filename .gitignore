@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Model files
+ *.pkl
+ *.joblib
+
+ # Misc (playground/large data file)
+ data/bluebook_for_bulldozers/
+ notebook-playground.ipynb
+
+ *.DS_Store
