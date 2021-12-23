@@ -137,3 +137,4 @@ dmypy.json
  notebook-playground.ipynb
 
  *.DS_Store
+.DS_Store
